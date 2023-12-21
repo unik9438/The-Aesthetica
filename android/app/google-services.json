@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158654281541",
+    "project_id": "the-aesthetica-2707f",
+    "storage_bucket": "the-aesthetica-2707f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158654281541:android:1716aa3014a8a0655b302c",
+        "android_client_info": {
+          "package_name": "com.example.dada_bhagwan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ItoHcjQ16VdR3kfg78Fby1e6Vu9Jthk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
